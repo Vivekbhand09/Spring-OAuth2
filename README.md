@@ -27,5 +27,4 @@ After successful login, the application simply prints the text — the main focu
 
 ---
 
-## 📂 Project Structure
 
